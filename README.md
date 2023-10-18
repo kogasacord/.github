@@ -1,2 +1,3 @@
-# .github
-Learn more about me here!
+# Kogasa
+
+A bot dedicated to making fun stuff that anyone can enjoy without setup or signing in!
