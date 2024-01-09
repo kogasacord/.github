@@ -1,5 +1,5 @@
 # Kogasa
-A bot dedicated to making fun stuff that anyone can enjoy without the hassling your users!
+A bot dedicated to making fun stuff that anyone can enjoy without hassling your users!
 
 <!--
 
